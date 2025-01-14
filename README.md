@@ -38,7 +38,7 @@ Siga uma das soluções abaixo:
 
 1. Excluir o arquivo *.python-version* e tentar novamente.
 
-2. Entrar no arquivo *.python-version* e incluir a versão completa da versão que está utilizando, no meu exemplo ele trouxe apenas *3.10*, tive de complementar como *3.10.10* para funcionar.
+2. Entrar no arquivo *.python-version* e incluir a versão completa da versão que está utilizando, no meu exemplo ele trouxe apenas *3.10*, tive de complementar como *3.10.10* para funcionar.\
 ![Exemplo de arquivo python-version corrigido](https://github.com/MoisesArruda/UV-Python/blob/main/imgs/python-version.png)
 
 
